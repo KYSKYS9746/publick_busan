@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/publick_busan/static/js/main.0e19bba9.js",
+    "main.css": "/publick_busan/static/css/main.b1a28fc0.css",
+    "main.js": "/publick_busan/static/js/main.2e7a2fcb.js",
     "index.html": "/publick_busan/index.html",
-    "main.0e19bba9.js.map": "/publick_busan/static/js/main.0e19bba9.js.map"
+    "main.b1a28fc0.css.map": "/publick_busan/static/css/main.b1a28fc0.css.map",
+    "main.2e7a2fcb.js.map": "/publick_busan/static/js/main.2e7a2fcb.js.map"
   },
   "entrypoints": [
-    "static/js/main.0e19bba9.js"
+    "static/css/main.b1a28fc0.css",
+    "static/js/main.2e7a2fcb.js"
   ]
 }
